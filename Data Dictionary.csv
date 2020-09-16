@@ -1,0 +1,9 @@
+Variable,Meaning
+S.no ,breakdown serial number (not machine number)
+Lifetime,in months
+broken,has a breakdown happened ? Yes (1) or no (0) 
+pressureInd_1,Pressure at first Pressure Indicator point
+pressureInd_2,Pressure at second Pressure Indicator point
+pressureInd_3,Pressure at third Pressure Indicator point
+team,which factory the machine belongs to 
+provider,company which has manufactured the machine
